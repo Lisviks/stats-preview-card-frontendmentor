@@ -19,7 +19,7 @@
 body {
   font-size: 15px;
   font-family: 'Inter', sans-serif;
-  color: var(--white);
+
   text-align: center;
 }
 
@@ -29,6 +29,7 @@ body {
   justify-content: center;
   align-items: center;
   background-color: var(--very-dark-blue);
+  color: var(--white);
 }
 
 .card {

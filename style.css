@@ -119,6 +119,10 @@ body {
     border-bottom-right-radius: 10px;
   }
 
+  .card-title h1 {
+    font-size: 2.3rem;
+  }
+
   .card .header-image .overlay-block {
     z-index: 4;
     border-radius: 0;
